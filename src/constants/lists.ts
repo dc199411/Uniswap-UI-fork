@@ -1,3 +1,4 @@
+const COMPOUND_LIST = '';
 const UNI_LIST = 'https://tokens.uniswap.org'
 const AAVE_LIST = 'tokenlist.aave.eth'
 const BA_LIST = 'https://raw.githubusercontent.com/The-Blockchain-Association/sec-notice-list/master/ba-sec-list.json'
